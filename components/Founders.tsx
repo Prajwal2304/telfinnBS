@@ -40,7 +40,7 @@ export default function Founders() {
                   className="rounded-full mx-auto mb-6"
                 />
                 <p className="text-lg text-gray-700 leading-relaxed text-justify">
-                  With over 25 years of rich corporate experience, Kanak has made significant contributions in the Telecom, ISP, and NBFC sectors. He holds a Bachelor's degree in Commerce (B.COM) and has pursued a Master's in Business Administration (MBA) with a specialization in Finance.
+                  With over 25 years of rich corporate experience, Kanak has made significant contributions in the Telecom, ISP, and NBFC sectors. He holds a Bachelors degree in Commerce (B.COM) and has pursued a Masters in Business Administration (MBA) with a specialization in Finance.
                 </p>
               </CardContent>
             </Card>

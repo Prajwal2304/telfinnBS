@@ -29,11 +29,11 @@ export default function AboutUs() {
             viewport={{ once: true }}
           >
             <p className="text-lg leading-relaxed text-gray-700">
-              Telfinn Business Solutions, LLP is a dynamic consultancy firm founded by industry veterans with a collective experience of over 25 years in the Telecom, ISP, and NBFC sectors. Our founders bring unparalleled expertise and strategic insights, ensuring that we deliver tailored solutions to meet our clients' unique needs.
+              Telfinn Business Solutions, LLP is a dynamic consultancy firm founded by industry veterans with a collective experience of over 25 years in the Telecom, ISP, and NBFC sectors. Our founders bring unparalleled expertise and strategic insights, ensuring that we deliver tailored solutions to meet our clients unique needs.
             </p>
             <br />
             <p className="text-lg leading-relaxed text-gray-700">
-              Established with a vision to empower corporate clients, Telfinn offers a comprehensive range of services designed to drive growth, enhance operational efficiency, and achieve sustainable success. Our commitment to excellence and innovation sets us apart as a trusted partner in navigating the complexities of today's business landscape.
+              Established with a vision to empower corporate clients, Telfinn offers a comprehensive range of services designed to drive growth, enhance operational efficiency, and achieve sustainable success. Our commitment to excellence and innovation sets us apart as a trusted partner in navigating the complexities of todays business landscape.
             </p>
           </motion.div>
 

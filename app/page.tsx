@@ -1,7 +1,6 @@
 import Header from '@/components/Header'
 import Hero from '@/components/Hero'
 import AboutUs from '@/components/AboutUs'
-import OurPromise from '@/components/OurPromise'
 import MissionVision from '@/components/MissionVision'
 import Founders from '@/components/Founders'
 import CoreServices from '@/components/CoreServices'
